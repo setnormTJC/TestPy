@@ -1,7 +1,7 @@
 #a print statement in Python
 print("Hello")
 
-g
+
 #a variable initialization
 name = "Joe Blow"
 print("Your name is: ", name)
@@ -14,3 +14,5 @@ print("You said that your favorite color is: ", favoriteColor)
 #calculation example
 twentyFive = pow(5, 2)
 print(twentyFive)
+
+
